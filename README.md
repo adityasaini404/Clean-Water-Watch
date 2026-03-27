@@ -25,10 +25,10 @@ https://adityasaini404.github.io/Clean-Water-Watch/
 - HTML, CSS, JavaScript
 
 ## Screenshots
-![Homepage](screenshots/home.png)
-![ReportForm](screenshots/reportform.png)
-![ReportIssues](screenshots/reportissues.png)
-![Tips&Info](screenshots/tipsandinfo.png)
+![Homepage](Screenshots/home.png)
+![ReportForm](Screenshots/reportform.png)
+![ReportIssues](Screenshots/reportissues.png)
+![Tips&Info](Screenshots/tipsandinfo.png)
 
 ## GitHub Repository
 https://github.com/adityasaini404/Clean-Water-Watch/
